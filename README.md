@@ -1,4 +1,4 @@
 # gitPractise
 
 ~For GitHub Practise~
-- Hi my name is manash CHoudhuri-
+- Hi my name is manash Choudhuri-
